@@ -17,15 +17,7 @@ body {
   background-repeat: no-repeat;
 }
 
-.logo {
-  margin-left: auto;
-  margin-right: 30px;
-  height: 100px;
-  width: 100px;
-  background-image: url(img/logo.png);
-  background-size: 100px 100px;
-  background-repeat: no-repeat;
-}
+
 
 .banner {
   height: 330px;
@@ -52,15 +44,6 @@ body {
   font-family: "Keania One", sans-serif;
 }
 
-.container {
-  gap: 30px;
-  max-width: 1200px;
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  margin-left: auto;
-  margin-right: auto;
-  padding: 20px;
-}
 
 .quadrado {
   background-image: url(img/-858921379-removebg-preview.png);

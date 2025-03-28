@@ -1,6 +1,8 @@
 import React from 'react';
 import './App.css'; // Importando o arquivo CSS para o estilo
 import Header from './components/Header';
+import Container from './components/quadrado';
+import Quadrado from './components/quadrado';
 
 function App() {
   return (
@@ -16,16 +18,7 @@ function App() {
         </div>
       </div>
 
-      <div className="container">
-        <div className="quadrado"></div>
-        <div className="quadrado"></div>
-        <div className="quadrado"></div>
-        <div className="quadrado"></div>
-        <div className="quadrado"></div>
-        <div className="quadrado"></div>
-        <div className="quadrado"></div>
-        <div className="quadrado"></div>
-      </div>
+      <Quadrado />
 
       <div className="footer">
         <div className="rodape">
