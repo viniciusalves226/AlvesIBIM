@@ -1,5 +1,5 @@
 import React from "react"
-import './Header.css'
+import './Header.css' //importa o css 
 
 function Header(){
 return (
@@ -16,4 +16,4 @@ return (
  )
  
 }
-export default Header
+export default Header //para user ele fora  e o default e como padrao 

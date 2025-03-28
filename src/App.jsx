@@ -1,16 +1,12 @@
 import React from 'react';
 import './App.css'; // Importando o arquivo CSS para o estilo
+import Header from './components/Header';
 
 function App() {
   return (
     <div>
-      <header>
-        <div className="Box">
-          <div className="GameMania">
-            <div className="logo"></div>
-          </div>
-        </div>
-      </header>
+      
+      <Header />
 
       <div className="banner_img">
         <div className="banner">
