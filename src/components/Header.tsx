@@ -1,3 +1,6 @@
+import React from "react"
+import './Header.css'
+
 function Header(){
 return (
     <>
@@ -13,3 +16,4 @@ return (
  )
  
 }
+export default Header
