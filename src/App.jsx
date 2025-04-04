@@ -3,20 +3,9 @@ import './App.css'
 function App() {
   return (
     <>
-      <div>
-        <header className="topo">
-          <div className="container">
-            <div className="divlogo">
-              <div className="img">
-                <img className="logo" src="https://images.vexels.com/media/users/3/153242/isolated/preview/6076a2083aacc2b3affbc0cc7a35c0d7-icone-plano-do-disco-compacto-multimidia.png" alt="Logo" />
-              </div>
-              <div className="h1">
-                <h1>MUZAAC</h1>
-              </div>
-            </div>
-          </div>
-        </header>
-      </div>
+      
+        <Header></Header>
+      
 
       <div className="btopo">
         <h2 className="font">Os melhores discos e CDs</h2>
@@ -35,12 +24,7 @@ function App() {
       </div>
 
       <div className="prod">
-        <div className="prods red p1"></div>
-        <div className="prods red p2"></div>
-        <div className="prods red p3"></div>
-        <div className="prods red p4"></div>
-        <div className="prods red p5">.3</div>
-        <div className="prods red p6"></div>
+        <div className="prods red p1" src="https://www.shoppingdella.com.br/upload/blog/1317jpeg"></div>
       </div>
 
       <div className="baixod">

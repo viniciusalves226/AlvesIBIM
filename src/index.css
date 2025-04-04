@@ -3,14 +3,6 @@ body {
   font-family: 'jsMath-cmbx10', sans-serif;
 }
 
-
-.container {
-  width: 80%;
-  margin: 0 auto;
-}
-
-
-
 .botonbox {
   display: grid;
   gap: 15px;
@@ -32,14 +24,7 @@ body {
   background-color: rgb(84, 0, 0);
 }
 
-.topo {
-  height: 130px;
-  width: 100%;
-  background-color: darkred;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
+
 
 .btopo {
   height: 250px;
@@ -55,22 +40,6 @@ body {
 }
 
 
-.logo {
-  height: 80px;
-  width: 80px;
-  margin-left: -30px;
-
-}
-
-.divlogo {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-
-.img {
-  margin-right: -20px;
-}
 
 .img1 {
   background-image: url(https://www.shoppingdella.com.br/upload/blog/1317jpeg);
@@ -140,34 +109,10 @@ body {
 }
 
 .p1 {
-  background-image: url(https://www.shoppingdella.com.br/upload/blog/1317jpeg);
   background-size: 180px;
 }
 
-.p2 {
-  background-image: url(https://www.shoppingdella.com.br/upload/blog/1317jpeg);
-  background-size: 180px;
-}
 
-.p3 {
-  background-image: url(https://www.shoppingdella.com.br/upload/blog/1317jpeg);
-  background-size: 180px;
-}
-
-.p4 {
-  background-image: url(https://www.shoppingdella.com.br/upload/blog/1317jpeg);
-  background-size: 180px;
-}
-
-.p5 {
-  background-image: url(https://www.shoppingdella.com.br/upload/blog/1317jpeg);
-  background-size: 180px;
-}
-
-.p6 {
-  background-image: url(https://www.shoppingdella.com.br/upload/blog/1317jpeg);
-  background-size: 180px;
-}
 
 @media(min-width: 768px) {
 
