@@ -1,0 +1,11 @@
+.btopo {
+    height: 250px;
+    width: 100%;
+    background-image: url(https://www.shoppingdella.com.br/upload/blog/1317jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 415px 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }

@@ -11,48 +11,9 @@ body {
 
 
 
-.botonbox {
-  display: grid;
-  gap: 15px;
-  margin: 0;
-  width: 100%;
-  height: 100%;
-  margin-top: 35px;
-}
 
-.gridItem {
-  width: 100%;
-  height: 270px;
-  border-radius: 20px;
-  display: flex;
-  align-items: center;
-}
 
-.red {
-  background-color: rgb(84, 0, 0);
-}
 
-.topo {
-  height: 130px;
-  width: 100%;
-  background-color: darkred;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.btopo {
-  height: 250px;
-  width: 100%;
-  background-image: url(https://www.shoppingdella.com.br/upload/blog/1317jpeg);
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: 415px 300px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-
-}
 
 
 .logo {
@@ -68,56 +29,9 @@ body {
   justify-content: space-between;
 }
 
-.img {
-  margin-right: -20px;
-}
-
-.img1 {
-  background-image: url(https://www.shoppingdella.com.br/upload/blog/1317jpeg);
-  background-size: 414px 270px;
-  background-repeat: no-repeat;
-  background-position: center;
-}
-
-.img2 {
-  background-image: url(https://www.shoppingdella.com.br/upload/blog/1317jpeg);
-  background-size: 414px 270px;
-  background-repeat: no-repeat;
-  background-position: center;
-}
-
-.img3 {
-  background-image: url(https://www.shoppingdella.com.br/upload/blog/1317jpeg);
-  background-size: 414px 270px;
-  background-repeat: no-repeat;
-  background-position: center;
-}
-
-.font {
-  color: rgb(8, 8, 8);
-  margin-left: 20px;
-}
-
-.white {
-  color: whitesmoke;
-}
-
-.baixo {
-  width: 100%;
-  height: 50px;
-  margin-top: 20px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 
 
-}
 
-.baixod {
-  display: flex;
-  justify-content: center;
-
-}
 
 .prod {
   display: grid;
